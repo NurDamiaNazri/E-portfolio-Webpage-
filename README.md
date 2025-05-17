@@ -7,7 +7,9 @@ This is a personal e-portfolio website designed to showcase my background, skill
 - Personal background and introduction
 - Skills and technology highlights
 - Experience and achievements
+- Lifestyle
 - Project showcase
+- Gallery
 - Contact information
 
 ## 🛠️ Technologies Used
@@ -25,5 +27,4 @@ This is a personal e-portfolio website designed to showcase my background, skill
 
 - Name: NUR DAMIA BT MOHD NAZRI
 - Matric No: `291763`
-
 
