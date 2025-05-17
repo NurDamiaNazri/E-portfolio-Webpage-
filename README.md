@@ -1,4 +1,4 @@
-# 🌐 E-Portfolio Webpsite
+# 🌐 E-Portfolio Website
 
 This is a personal e-portfolio website designed to showcase my background, skills, projects, and achievements. The webpage is created using HTML, CSS, and JavaScript.
 
